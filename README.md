@@ -4,7 +4,7 @@
 
 > This is a website that makes your daily tasks easy, since you can list them and mark them as done once you finish them, and later you can remove them so you can create a new one again also you can close the website and open it again, it will just reload the saved information.
 
-## ![Screenshot](./imagine/projectimage.jpg)
+## ![Screenshot](./assets/demo.png)
 
 ## Built With
 
